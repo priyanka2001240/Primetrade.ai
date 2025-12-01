@@ -1,5 +1,5 @@
 # Primetrade.ai
-rader Performance Analysis Using Bitcoin Fear–Greed Index
+Trader Performance Analysis Using Bitcoin Fear–Greed Index
 A Data Science Project by Priyanka Banerjee
 
 This project analyzes how Bitcoin market sentiment (Fear & Greed Index) affects a trader’s performance, including:
