@@ -82,7 +82,7 @@ Sentiment Score
 
 Both datasets are merged on trade_date ↔ sentiment_date.
 
-🔧 Technologies Used
+ Technologies Used
 
 Python
 
@@ -102,11 +102,11 @@ CSV + PNG outputs
 
  Notebook 1 (Summary)
 
-✔ Loaded & cleaned both datasets
-✔ Parsed timestamps and normalized numeric fields
-✔ Applied forward-fill to sentiment data
-✔ Merged sentiment with trading data
-✔ Exploratory Data Analysis:
+ Loaded & cleaned both datasets
+ Parsed timestamps and normalized numeric fields
+ Applied forward-fill to sentiment data
+ Merged sentiment with trading data
+ Exploratory Data Analysis:
 
 Daily PnL trends
 
@@ -119,7 +119,7 @@ processed_trades_with_sentiment.csv
 
 Notebook 2 (Summary)
 
-✔ Feature Engineering:
+ Feature Engineering:
 
 hour
 
@@ -141,17 +141,17 @@ Heatmaps
 
 Correlation matrix
 
-✔ Statistical Test:
+ Statistical Test:
 
 Mann–Whitney U (Fear vs Greed)
 
-✔ Machine Learning:
+ Machine Learning:
 
 Linear Regression (predict PnL)
 
 Logistic Regression (predict Win/Loss)
 
-✔ Strategy Backtests:
+ Strategy Backtests:
 
 sentiment > 40 / 50 / 60 trading rules
 
@@ -179,8 +179,8 @@ Conclusion
 Bitcoin sentiment is a powerful indicator of trader performance.
 By combining sentiment with leverage and time features, we can:
 
-✔ Improve risk management
-✔ Identify profitable periods
-✔ Build smarter trading strategies
+ Improve risk management
+Identify profitable periods
+Build smarter trading strategies
 
 This project demonstrates how market psychology directly impacts trading outcomes.
