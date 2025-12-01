@@ -130,7 +130,7 @@ is_win
 
 cleaned leverage & size
 
-✔ Advanced Analysis:
+ Advanced Analysis:
 
 KDE, scatterplots
 
