@@ -17,11 +17,12 @@ Sentiment-based trading strategies
 Predictive modeling (Regression + Classification)
 
 The analysis is divided into two Jupyter notebooks:
-✔ Notebook 1 — Data Cleaning + Merging + Basic EDA
-✔ Notebook 2 — Advanced EDA + Modeling + Strategy Insights
+ Notebook 1 — Data Cleaning + Merging + Basic EDA
+Notebook 2 — Advanced EDA + Modeling + Strategy Insights
 
  Project Structure
  ds_priyanka/
+ ```
 │
 ├── notebook_1.ipynb                    # Data cleaning, merging, base EDA
 ├── notebook_2.ipynb                    # Advanced analysis, ML models, strategy
@@ -42,7 +43,7 @@ The analysis is divided into two Jupyter notebooks:
       ├── pnl_histogram.png
       ├── pnl_kde.png
       └── pnl_vs_sentiment_value.png
-
+```
 Dataset Description
 1. Historical Trading Data
 
